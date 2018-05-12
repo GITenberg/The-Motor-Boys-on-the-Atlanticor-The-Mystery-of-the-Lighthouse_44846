@@ -1,0 +1,28 @@
+_repo: The-Motor-Boys-on-the-Atlanticor-The-Mystery-of-the-Lighthouse_44846
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44846-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Young, Clarence
+    gutenberg_agent_id: '1632'
+    url: http://www.gutenberg.org/2009/agents/1632
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
+description: ''
+gutenberg_issued: '2014-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lighthouses -- Juvenile fiction'
+- !lcsh 'Motorboat racing -- Juvenile fiction'
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+title: The Motor Boys on the Atlantic; or, The Mystery of the Lighthouse
+url: http://www.gutenberg.org/ebooks/44846
