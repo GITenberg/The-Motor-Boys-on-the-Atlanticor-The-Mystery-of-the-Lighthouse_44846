@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44846#The-Motor-Boys-on-the-Atlanticor-The-Mystery-of-the-Lighthouse
 gutenberg_issued: '2014-02-08'
 gutenberg_type: Text
 identifiers:
